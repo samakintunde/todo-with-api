@@ -1,0 +1,20 @@
+{
+  "name": "todo-with-api",
+  "version": "1.0.0",
+  "description": "A todo app which runs on use of an API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Samuel Akintunde",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "eslint": "^5.3.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.7"
+  }
+}
