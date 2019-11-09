@@ -15,6 +15,6 @@
     "body-parser": "^1.18.3",
     "eslint": "^5.3.0",
     "express": "^4.16.3",
-    "mongoose": "^5.2.7"
+    "mongoose": "^5.7.5"
   }
 }
